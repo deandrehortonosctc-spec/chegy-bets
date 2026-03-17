@@ -1,0 +1,6 @@
+cd "c:\Users\Heemt\OneDrive\Desktop\sports-bet"
+git init
+git add .
+git commit -m "Chegy Bets - Arbitrage Platform"
+git remote add origin https://github.com/YOUR_USERNAME/chegy-bets.git
+git push -u origin main
